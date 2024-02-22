@@ -1,0 +1,38 @@
+body {
+    background-color: #f4f4f4; /* Light gray background */
+    color: #333; /* Dark text color */
+}
+
+.navbar {
+    background-color: #007BFF; /* Blue navbar background */
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+    color: #fff !important; /* White text for navbar elements */
+}
+
+.card {
+    background-color: #fff; /* White background for cards */
+    border: 1px solid #ddd; /* Gray border for cards */
+    border-radius: 10px; /* Rounded corners for cards */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow for cards */
+    margin-bottom: 20px; /* Spacing between cards */
+}
+
+.card-title {
+    color: #007BFF; /* Blue color for card titles */
+}
+
+.card-text {
+    color: #555; /* Dark gray color for card text */
+}
+
+.btn-primary {
+    background-color: #28a745; /* Green button background */
+    border-color: #28a745; /* Green button border color */
+}
+
+.btn-primary:hover {
+    background-color: #218838; /* Darker green on hover */
+    border-color: #1e7e34; /* Darker green border on hover */
+}
